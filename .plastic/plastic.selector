@@ -1,0 +1,3 @@
+repository "포탈프로젝트/포탈프로젝트@14568781003156@cloud"
+  path "/"
+    smartbranch "/main"
